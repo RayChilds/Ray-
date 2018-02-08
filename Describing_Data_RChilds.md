@@ -6,11 +6,6 @@ import numpy as np
 
 
 ```python
-#1
-```
-
-
-```python
 ages_x = [6, 8, 8, 10, 11, 12, 14]
 ```
 
